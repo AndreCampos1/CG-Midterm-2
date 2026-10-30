@@ -1,5 +1,14 @@
 # CG Midterm 2
 
+Before we start I just wanna say that the build has a problem has a mountain withouth a material, I dont know why but I left it there because of time.
+
+In the Game
+<img width="953" height="536" alt="image" src="https://github.com/user-attachments/assets/263e44f3-4117-4d95-8c0b-34625d8cec47" />
+
+In the Scene
+<img width="569" height="195" alt="image" src="https://github.com/user-attachments/assets/33cd9bed-984c-477a-bdfe-9ca0e50294f8" />
+
+
 Part 1: added my mesh from Blender, took a little while to make them but I got most of it done. The main character model didnt work though for some reason, so ill have to jsut skip that part.
 
 Part 2: I made a reflection shader (Copying from Tutorial 3). I crabed the cube maps from the Unity store (https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014) 
@@ -11,6 +20,11 @@ The bottom part of the shader works my crabbing the camera view and the normal v
 <img width="476" height="258" alt="image" src="https://github.com/user-attachments/assets/62ea3923-7ae8-4ce2-ba80-389cf01a53a4" />
 
 
+Part 3: Tilling. The tiles work witht he tiling and offset node. I then added a controller for the editor to change it if they want to increase or decrease the tiling on the x or y axis. I then combined it with a voronoi in order to give the tiles more detail since they are suppose to look like rocks. I then combined it with the color for more creativity form the creator. There is nothing to reference here since I did personall research at home before the test. 
+
+<img width="482" height="175" alt="image" src="https://github.com/user-attachments/assets/ea4b14c4-9e88-4db9-9bd6-f7f89cc1ebc4" />
+
+
 Part 7: Added detail to the lava using over time movement on the UV in order to seem like its moving. This makes it looks like its alive just like the one in the video. 
 
 <img width="563" height="300" alt="image" src="https://github.com/user-attachments/assets/8e705817-125b-4c6e-ba40-2b7506bf9a0c" />
@@ -18,6 +32,7 @@ Part 7: Added detail to the lava using over time movement on the UV in order to 
 <img width="461" height="358" alt="image" src="https://github.com/user-attachments/assets/29cbc321-44ac-4152-85b4-79ca85af6f26" />
 
 <img width="514" height="379" alt="image" src="https://github.com/user-attachments/assets/9a0f54a9-a6d6-4c17-96af-81e6925bcaba" />
+
 
 
 
