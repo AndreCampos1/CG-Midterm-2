@@ -25,7 +25,7 @@ Part 3: Tilling. The tiles work witht he tiling and offset node. I then added a 
 <img width="482" height="175" alt="image" src="https://github.com/user-attachments/assets/ea4b14c4-9e88-4db9-9bd6-f7f89cc1ebc4" />
 
 
-Part 7: Added detail to the lava using over time movement on the UV in order to seem like its moving. This makes it looks like its alive just like the one in the video. 
+Part 7: Added detail to the lava using over time movement on the UV in order to seem like its moving. This makes it looks like its alive just like the one in the video. Nothing to refence again because I studied at home.
 
 <img width="563" height="300" alt="image" src="https://github.com/user-attachments/assets/8e705817-125b-4c6e-ba40-2b7506bf9a0c" />
 
